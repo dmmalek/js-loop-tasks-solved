@@ -4,4 +4,8 @@
 
  */
 
-/*programming hero*/
+let promise = 1;
+while (promise <= 60) {
+    console.log(promise, "I will invest at least 6 hrs every single day for next 60 days!");
+    promise++;
+}
